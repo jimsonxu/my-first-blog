@@ -1,10 +1,18 @@
+# OSX
+.DS_Store
+
+#Pycharm
+.idea
+
+#python
 *.pyc
-*~
 __pycache__
 venv
+
+# project generated
 db.sqlite3
 /static
-.DS_Store
 
 # Swap files
 *.swp
+*~
